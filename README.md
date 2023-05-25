@@ -1,3 +1,3 @@
 # safe_zone
 
-Exercio de fixação C#.
+Exercio de fixação.

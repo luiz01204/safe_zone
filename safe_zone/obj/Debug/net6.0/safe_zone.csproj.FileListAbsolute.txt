@@ -1,0 +1,15 @@
+C:\projetos_c#\safe_zone\safe_zone\bin\Debug\net6.0\safe_zone.exe
+C:\projetos_c#\safe_zone\safe_zone\bin\Debug\net6.0\safe_zone.deps.json
+C:\projetos_c#\safe_zone\safe_zone\bin\Debug\net6.0\safe_zone.runtimeconfig.json
+C:\projetos_c#\safe_zone\safe_zone\bin\Debug\net6.0\safe_zone.dll
+C:\projetos_c#\safe_zone\safe_zone\bin\Debug\net6.0\safe_zone.pdb
+C:\projetos_c#\safe_zone\safe_zone\obj\Debug\net6.0\safe_zone.csproj.AssemblyReference.cache
+C:\projetos_c#\safe_zone\safe_zone\obj\Debug\net6.0\safe_zone.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos_c#\safe_zone\safe_zone\obj\Debug\net6.0\safe_zone.AssemblyInfoInputs.cache
+C:\projetos_c#\safe_zone\safe_zone\obj\Debug\net6.0\safe_zone.AssemblyInfo.cs
+C:\projetos_c#\safe_zone\safe_zone\obj\Debug\net6.0\safe_zone.csproj.CoreCompileInputs.cache
+C:\projetos_c#\safe_zone\safe_zone\obj\Debug\net6.0\safe_zone.dll
+C:\projetos_c#\safe_zone\safe_zone\obj\Debug\net6.0\refint\safe_zone.dll
+C:\projetos_c#\safe_zone\safe_zone\obj\Debug\net6.0\safe_zone.pdb
+C:\projetos_c#\safe_zone\safe_zone\obj\Debug\net6.0\safe_zone.genruntimeconfig.cache
+C:\projetos_c#\safe_zone\safe_zone\obj\Debug\net6.0\ref\safe_zone.dll
